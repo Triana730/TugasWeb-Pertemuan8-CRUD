@@ -1,0 +1,17 @@
+/* Ganti isi file ini dengan CSS dari tugas sebelumnya kalau mau */
+* { box-sizing: border-box; }
+body { font-family: Arial, sans-serif; background: #f4f6f9; margin: 0; color: #222; }
+.container { max-width: 900px; margin: 40px auto; background: #fff; padding: 24px 28px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,.08); }
+h1 { margin-top: 0; }
+.btn { display: inline-block; background: #2563eb; color: #fff; padding: 8px 16px; border: 0; border-radius: 6px; text-decoration: none; cursor: pointer; font-size: 14px; }
+.btn:hover { background: #1d4ed8; }
+.btn-hapus { background: #dc2626; color: #fff; border: 0; padding: 5px 10px; border-radius: 5px; cursor: pointer; }
+table { width: 100%; border-collapse: collapse; margin-top: 16px; }
+th, td { padding: 10px; border-bottom: 1px solid #e5e7eb; text-align: left; }
+th { background: #f1f5f9; }
+label { display: block; margin: 14px 0 4px; font-weight: bold; }
+input, select { width: 100%; padding: 8px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 14px; }
+form .btn { margin-top: 18px; }
+.alert { padding: 10px 14px; border-radius: 6px; margin: 12px 0; }
+.alert.success { background: #dcfce7; color: #166534; }
+.alert.error { background: #fee2e2; color: #991b1b; }
